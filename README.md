@@ -1,3 +1,0 @@
-CEO
-Meeting due
-date
